@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#JF target dict
+common.dict
+
+#png file
+*.png
+
+#test h3k4me1
+h3k4me1-cluster.csv
+
+#DS store Mac
+.DS_Store
+
