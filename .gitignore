@@ -141,3 +141,5 @@ h3k4me1-cluster.csv
 #DS store Mac
 .DS_Store
 
+#SRR
+chipseq_json_generator/srr
